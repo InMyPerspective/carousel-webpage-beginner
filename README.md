@@ -8,11 +8,11 @@ General Explaination:
 
 In HTML page:
 
-- A container (<div class="carousel">) holds the carousel.
+- A container |<div class="carousel">| holds the carousel.
 - Inside, there are:
-    - A list of items (<div class="list">) with images and text content.
-    - A thumbnail preview section (<div class="thumbnail">) with smaller images.
-    - Navigation arrows (<div class="arrows">) to move through the carousel.
+    - A list of items |<div class="list">| with images and text content.
+    - A thumbnail preview section |<div class="thumbnail">| with smaller images.
+    - Navigation arrows |<div class="arrows">| to move through the carousel.
 
 CSS:
 
